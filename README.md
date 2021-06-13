@@ -3,18 +3,16 @@ Bus Trajectory Dataset for the Indian City of Durgapur (Route Name: 54Feet). The
 
 ## Available Modalities
 
-## Problems in the Dataset
+## Known Problems in the Dataset
 
 ## Dataset Link
-
+[Download the dataset from here]()
 ## Dataset Pre-processing
 Codes to pre-process the dataset will be available soon.
-
-
 # Reference
 To refer this dataset, please cite the following work.
 
-[Download the paper here](https://arxiv.org/abs/2105.13131).
+[Download the paper from here](https://arxiv.org/abs/2105.13131).
 
 BibTex Reference:
 ```
