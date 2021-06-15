@@ -6,7 +6,7 @@ This dataset contains the bus trajectory dataset collected by 6 volunteers who w
 ## Known Problems in the Dataset
 
 ## Dataset Link
-[Download the dataset from here]()
+[Download the dataset from here](https://drive.google.com/file/d/1uvFCq4wXkjVo8YBDYBu-tYcXe1DDLSIH/view?usp=sharing)
 ## Dataset Pre-processing
 Codes to pre-process the dataset will be available soon.
 # Reference
