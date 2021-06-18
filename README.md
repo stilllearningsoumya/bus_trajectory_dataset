@@ -20,11 +20,13 @@ This dataset contains the bus trajectory dataset collected by 6 volunteers who w
 
 
 ## Known Problems in the Dataset
+Some of the minor known probelms in the dataset are:
+1. Some of the WiFi SSID(s) have characters replaced by unrecognised characters (or even emojis).
+2. A suggested way of calculating the speed of the vehicle is by computing the difference in distance from the GPS coordinates and then checking the time taken to travel that distance. However, that would also include the stoppage time, if any.
 
 ## Dataset Link
 [Download the dataset from here](https://drive.google.com/file/d/1uvFCq4wXkjVo8YBDYBu-tYcXe1DDLSIH/view?usp=sharing)
-## Dataset Pre-processing
-Codes to pre-process the dataset will be available soon.
+
 # Reference
 To refer this dataset, please cite the following work.
 
