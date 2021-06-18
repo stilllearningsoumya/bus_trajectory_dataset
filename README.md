@@ -1,9 +1,9 @@
-<p align="center">
-      <img src="route_54_feet.PNG" width="100%">
-      </p>
 # Bus Trajectory Dataset
 This dataset contains the bus trajectory dataset collected by 6 volunteers who were asked to travel across the sub-urban city of Durgapur, India, on intra-city buses (route name: 54 Feet). During the travel the volunteers captured sensor logs through an Android application installed on COTS smartphones. The details of the modalities logged by the Android application is given as follows.
 
+<p align="center">
+      <img src="route_54_feet.PNG" width="100%"/>
+</p>
 ## Available Modalities
 |    `Modality`       | `Sample Rate (Hz)` |      `File Pattern`       |
 |:--------------------|:------------------:|:-------------------------:|
