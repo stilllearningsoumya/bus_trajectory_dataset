@@ -4,6 +4,7 @@ This dataset contains the bus trajectory dataset collected by 6 volunteers who w
 <p align="center">
       <img src="route_54_feet.PNG" width="100%"/>
 </p>
+
 ## Available Modalities
 
 |    `Modality`       | `Sample Rate (Hz)` |      `File Pattern`       |
@@ -16,6 +17,7 @@ This dataset contains the bus trajectory dataset collected by 6 volunteers who w
 |    WiFi             |        8000        |All/Bus_WiFi_\*.txt        |
 |    Light            |        5           |Light/Bus_LIGHT\*.txt      |
 |    Sound            |        8000        |Sound/Bus_SOUND_\*.wav     |
+
 
 ## Known Problems in the Dataset
 
