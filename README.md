@@ -34,13 +34,22 @@ To refer this dataset, please cite the following work.
 
 BibTex Reference:
 ```
-@misc{mandal2021exploiting,
-      title={Exploiting Multi-modal Contextual Sensing for City-bus's Stay Location Characterization: Towards Sub-60 Seconds Accurate Arrival Time Prediction}, 
-      author={Ratna Mandal and Prasenjit Karmakar and Soumyajit Chatterjee and Debaleen Das Spandan and Shouvit Pradhan and Sujoy Saha and Sandip Chakraborty and Subrata Nandi},
-      year={2021},
-      eprint={2105.13131},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{10.1145/3397536.3422273,
+author = {Mandal, Ratna and Karmakar, Prasenjit and Roy, Abhijit and Saha, Arpan and Chatterjee, Soumyajit and Chakraborty, Sandip and Saha, Sujoy and Nandi, Subrata},
+title = {Ad-HocBusPoI: Context Analysis of Ad-Hoc Stay-Locations from Intra-City Bus Mobility and Smartphone Crowdsensing},
+year = {2020},
+isbn = {9781450380195},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3397536.3422273},
+doi = {10.1145/3397536.3422273},
+abstract = {Public city bus services across various developing cities inhabit multiple stay-locations on the routes due to ad-hoc bus stops to provide on-demand passenger boarding and alighting services. Characterizing these stay-locations is essential to correctly develop models for bus transit patterns used in various digital navigation services. In this poster, we create a deep learning-driven methodology to characterize ad-hoc stay-locations over bus routes based on crowd-sensing contextual information. Experiments over 720km of bus travel data in a semi-urban city in India indicate promising results from the model in terms of good detection accuracy.},
+booktitle = {Proceedings of the 28th International Conference on Advances in Geographic Information Systems},
+pages = {457–460},
+numpages = {4},
+keywords = {Crowdsensing, Bus Stay Locations, Smartphone sensor},
+location = {Seattle, WA, USA},
+series = {SIGSPATIAL '20}
 }
 ```
 For questions and general feedback, contact Sujoy Saha (sujoy.saha@cse.nitdgp.ac.in).
