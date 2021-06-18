@@ -30,7 +30,7 @@ Some of the minor known probelms in the dataset are:
 # Reference
 To refer this dataset, please cite the following work.
 
-[Download the paper from here](https://arxiv.org/abs/2105.13131).
+[Download the paper from here](https://dl.acm.org/doi/abs/10.1145/3397536.3422273).
 
 BibTex Reference:
 ```
