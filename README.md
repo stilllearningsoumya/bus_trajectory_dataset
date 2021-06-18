@@ -5,6 +5,7 @@ This dataset contains the bus trajectory dataset collected by 6 volunteers who w
       <img src="route_54_feet.PNG" width="100%"/>
 </p>
 ## Available Modalities
+
 |    `Modality`       | `Sample Rate (Hz)` |      `File Pattern`       |
 |:--------------------|:------------------:|:-------------------------:|
 |    GPS              |        1           |All/Bus_GPS_\*.txt         |
