@@ -25,7 +25,7 @@ Some of the minor known probelms in the dataset are:
 2. A suggested way of calculating the speed of the vehicle is by computing the difference in distance from the GPS coordinates and then checking the time taken to travel that distance. However, that would also include the stoppage time, if any.
 
 ## Dataset Link
-[Download the dataset from here](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/pkarmakar_kgpian_iitkgp_ac_in/EYXROxN9QzxIg-ts4qwDjdEBoEGRgHO07HggdEVjX4Ppng?e=LPxXjz)
+[Download the dataset from here](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/pkarmakar_kgpian_iitkgp_ac_in/EYXROxN9QzxIg-ts4qwDjdEBoEGRgHO07HggdEVjX4Ppng)
 
 # Reference
 To refer this dataset, please cite the following work.
