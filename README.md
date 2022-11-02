@@ -25,31 +25,28 @@ Some of the minor known probelms in the dataset are:
 2. A suggested way of calculating the speed of the vehicle is by computing the difference in distance from the GPS coordinates and then checking the time taken to travel that distance. However, that would also include the stoppage time, if any.
 
 ## Dataset Link
-[Download the dataset from here](https://drive.google.com/file/d/1uvFCq4wXkjVo8YBDYBu-tYcXe1DDLSIH/view?usp=sharing)
+[Download the dataset from here](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/pkarmakar_kgpian_iitkgp_ac_in/EYXROxN9QzxIg-ts4qwDjdEBoEGRgHO07HggdEVjX4Ppng?e=LPxXjz)
 
 # Reference
 To refer this dataset, please cite the following work.
 
-[Download the paper from here](https://dl.acm.org/doi/abs/10.1145/3397536.3422273).
+[Download the paper from here](https://dl.acm.org/doi/10.1145/3549548).
 
 BibTex Reference:
 ```
-@inproceedings{10.1145/3397536.3422273,
-author = {Mandal, Ratna and Karmakar, Prasenjit and Roy, Abhijit and Saha, Arpan and Chatterjee, Soumyajit and Chakraborty, Sandip and Saha, Sujoy and Nandi, Subrata},
-title = {Ad-HocBusPoI: Context Analysis of Ad-Hoc Stay-Locations from Intra-City Bus Mobility and Smartphone Crowdsensing},
-year = {2020},
-isbn = {9781450380195},
+@article{10.1145/3549548,
+author = {Mandal, Ratna and Karmakar, Prasenjit and Chatterjee, Soumyajit and Spandan, Debaleen Das and Pradhan, Shouvit and Saha, Sujoy and Chakraborty, Sandip and Nandi, Subrata},
+title = {Exploiting Multi-Modal Contextual Sensing for City-Bus’s Stay Location Characterization: Towards Sub-60 Seconds Accurate Arrival Time Prediction},
+year = {2022},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3397536.3422273},
-doi = {10.1145/3397536.3422273},
-abstract = {Public city bus services across various developing cities inhabit multiple stay-locations on the routes due to ad-hoc bus stops to provide on-demand passenger boarding and alighting services. Characterizing these stay-locations is essential to correctly develop models for bus transit patterns used in various digital navigation services. In this poster, we create a deep learning-driven methodology to characterize ad-hoc stay-locations over bus routes based on crowd-sensing contextual information. Experiments over 720km of bus travel data in a semi-urban city in India indicate promising results from the model in terms of good detection accuracy.},
-booktitle = {Proceedings of the 28th International Conference on Advances in Geographic Information Systems},
-pages = {457–460},
-numpages = {4},
-keywords = {Crowdsensing, Bus Stay Locations, Smartphone sensor},
-location = {Seattle, WA, USA},
-series = {SIGSPATIAL '20}
+issn = {2691-1914},
+url = {https://doi.org/10.1145/3549548},
+doi = {10.1145/3549548},
+note = {Just Accepted},
+journal = {ACM Trans. Internet Things},
+month = {jul},
+keywords = {multi-modal sensing, smartphone computing, intelligent transportation, stay-location detection, machine learning}
 }
 ```
 For questions and general feedback, contact Sujoy Saha (sujoy.saha@cse.nitdgp.ac.in).
