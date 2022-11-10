@@ -26,7 +26,7 @@ Some of the minor known probelms in the dataset are:
 
 ## Code & Dataset Link
 Download the processing code from <em>BuStop</em> framework repository in [Github](https://github.com/prasenjit52282/BuStop)\
-Download the dataset from here [Github](https://github.com/stilllearningsoumya/bus_trajectory_dataset) | [OneDrive](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/pkarmakar_kgpian_iitkgp_ac_in/EYXROxN9QzxIg-ts4qwDjdEBoEGRgHO07HggdEVjX4Ppng)
+Download the dataset from here [OneDrive](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/pkarmakar_kgpian_iitkgp_ac_in/EYXROxN9QzxIg-ts4qwDjdEBoEGRgHO07HggdEVjX4Ppng)
 
 # Reference
 To refer this dataset, please cite the following work.
